@@ -19,4 +19,5 @@ A responsive full-stack Hotel Management System that enables users to register, 
 - Responsive design for desktop and mobile
 
 
-
+## Note
+Some admin pages may be under development.
