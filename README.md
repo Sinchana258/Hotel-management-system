@@ -20,4 +20,4 @@ A responsive full-stack Hotel Management System that enables users to register, 
 
 
 ## Note
-Some admin pages may be under development.
+Some admin pages are under development.
